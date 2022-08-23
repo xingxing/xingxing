@@ -5,5 +5,6 @@
 - 🌱 I’m currently learning "BPF Performance Tools" (Thanks for the brilliant job of [Brenden Gregg](https://github.com/brendangregg))
 - 👯 I’m looking to collaborate on SRE/Devops
 
+## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,emacs,elixir,go,gitlab,git,docker,c,linux,mysql ,postgres,gcp,ansible,bash,rails,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,emacs,elixir,go,gitlab,git,docker,c,linux,mysql,postgres,gcp,ansible,bash,rails,kubernetes)](https://skillicons.dev)
