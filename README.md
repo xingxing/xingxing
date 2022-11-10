@@ -7,7 +7,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,emacs,elixir,go,gitlab,git,docker,c,linux,mysql,postgres,gcp,ansible,bash,rails,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,emacs,elixir,go,gitlab,git,docker,c,linux,mysql,postgres,gcp,ansible,bash,rails,kubernetes,typescript)](https://skillicons.dev)
 
 ##
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xingxing.xingxing&left_color=green&right_color=red)
